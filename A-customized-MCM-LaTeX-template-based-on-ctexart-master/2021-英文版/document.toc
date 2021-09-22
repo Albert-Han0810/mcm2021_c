@@ -1,0 +1,32 @@
+\contentsline {section}{\numberline {1}Introduction: Assumptions}{1}{}%
+\contentsline {section}{\numberline {2}Data Processing}{1}{}%
+\contentsline {subsection}{\numberline {2.1}Repeated Data Verification}{1}{}%
+\contentsline {subsection}{\numberline {2.2}Handle Null or Abnormal Values}{2}{}%
+\contentsline {subsection}{\numberline {2.3}Remove Useless Data}{3}{}%
+\contentsline {section}{\numberline {3}Prediction}{3}{}%
+\contentsline {subsection}{\numberline {3.1}Examination}{3}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}Stability Test}{4}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}Correlation}{5}{}%
+\contentsline {subsection}{\numberline {3.2}Prediction Method}{5}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}Area Division}{5}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}Cellular Automata}{6}{}%
+\contentsline {subsection}{\numberline {3.3}Result}{7}{}%
+\contentsline {section}{\numberline {4}Model Constrction}{8}{}%
+\contentsline {subsection}{\numberline {4.1}Overview of Our Model}{8}{}%
+\contentsline {subsection}{\numberline {4.2}Subquestions with Submodels}{8}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}Detection Time}{8}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}Notes}{11}{}%
+\contentsline {subsubsection}{\numberline {4.2.3}Location}{13}{}%
+\contentsline {subsubsection}{\numberline {4.2.4}Photographs}{13}{}%
+\contentsline {subsection}{\numberline {4.3}the Determination of Weights}{13}{}%
+\contentsline {section}{\numberline {5}Model Simulation and Problem Solving}{14}{}%
+\contentsline {subsection}{\numberline {5.1}Task 1}{14}{}%
+\contentsline {subsection}{\numberline {5.2}Task 2}{14}{}%
+\contentsline {subsection}{\numberline {5.3}Task 3}{15}{}%
+\contentsline {subsection}{\numberline {5.4}Task 4}{16}{}%
+\contentsline {subsection}{\numberline {5.5}Task 5}{17}{}%
+\contentsline {section}{\numberline {6}Model Analysis}{18}{}%
+\contentsline {subsection}{\numberline {6.1}Model Sensitivity Test}{18}{}%
+\contentsline {subsection}{\numberline {6.2}Strengths}{18}{}%
+\contentsline {subsection}{\numberline {6.3}Weaknesses}{19}{}%
+\contentsline {section}{References}{20}{}%
